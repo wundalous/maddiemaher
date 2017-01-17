@@ -2043,7 +2043,7 @@
 			}
 
 		.image img {
-			border-radius: 0.35em;
+			/*border-radius: 0.35em;  */
 			display: block;
 		}
 
@@ -2078,7 +2078,7 @@
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			/*border-radius: 100%;*/
 		}
 
 			.image.avatar:before {
@@ -2086,7 +2086,7 @@
 			}
 
 			.image.avatar img {
-				border-radius: 100%;
+				/*border-radius: 100%;*/
 				width: 100%;
 			}
 
