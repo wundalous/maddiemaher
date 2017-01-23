@@ -2043,7 +2043,7 @@
 			}
 
 		.image img {
-			/*border-radius: 0.35em;  */
+			border-radius: 0.35em;
 			display: block;
 		}
 
@@ -2077,8 +2077,8 @@
 				width: 100%;
 			}
 
-		.image.avatar {
-			/*border-radius: 100%;*/
+  		.image.avatar {
+			border-radius: 100%;
 		}
 
 			.image.avatar:before {
@@ -2086,9 +2086,10 @@
 			}
 
 			.image.avatar img {
-				/*border-radius: 100%;*/
+				border-radius: 100%;
 				width: 100%;
 			}
+
 
 /* List */
 
@@ -2464,7 +2465,7 @@
 	#header {
 		background-color: #1f1815;
 		background-attachment: scroll,								fixed;
-		background-image: url("images/overlay.png"), url("../images/bg.jpg");
+		background-image: url("images/overlay.png"), url("../images/marchantia.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								auto 100%;
